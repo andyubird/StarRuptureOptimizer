@@ -4,6 +4,8 @@ A high-performance base layout and production planner for the game **Star Ruptur
 
 This tool helps players optimize their factory logistics by calculating exact production requirements and generating efficient base layouts using advanced clustering algorithms.
 
+Demo: https://star-rupture-optimizer.vercel.app/
+
 ## 🚀 Features
 
 ### 🏭 Production Planning (Sankey Chart)
